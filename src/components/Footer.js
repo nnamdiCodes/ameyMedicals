@@ -25,19 +25,19 @@ const Footer = ({
 
       <ul className="socialIcons">
           <li>
-              <a href="" target="_blank" rel="noopener noreferrer"> 
-                <FaFacebook className="icon"/> 
-              </a>
+            <FaFacebook className="icon"/>
+              {/* <a href="" target="_blank" rel="noopener noreferrer">    
+              </a> */}
           </li>
           <li>
-              <a href="" target="_blank" rel="noopener noreferrer">
-                <FaInstagram className="icon"/> 
-              </a>
+            <FaInstagram className="icon"/>
+              {/* <a href="" target="_blank" rel="noopener noreferrer">  
+              </a> */}
           </li>
           <li>
-              <a href="" target="_blank" rel="noopener noreferrer">
-                <FaTwitter className="icon"/>
-              </a>
+            <FaTwitter className="icon"/>
+              {/* <a href="" target="_blank" rel="noopener noreferrer">  
+              </a> */}
           </li>
       </ul>
     </footer>

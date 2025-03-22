@@ -1,6 +1,5 @@
 import React from 'react'
 import teddyBear from '../images/teddyBear.PNG'
-import { PiArrowArcLeftBold, PiArrowArcRightBold, PiArrowBendDownLeftBold, PiArrowBendDownRightBold } from 'react-icons/pi'
 import { GrDocumentPerformance } from 'react-icons/gr'
 import { MdOutlineHealthAndSafety } from 'react-icons/md'
 import { MdOutlineHighQuality } from 'react-icons/md'
