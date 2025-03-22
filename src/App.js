@@ -635,6 +635,7 @@ const handleSubmit = (event) => {
                                 /> }>
         <Route index element={ <Home 
                                   properties={properties}
+                                  setProperties={setProperties}
                                   itemsToShow={itemsToShow}
                                   medicalBooksIndex={medicalBooksIndex}
                                   medicalWearsIndex={medicalWearsIndex}
@@ -664,6 +665,7 @@ const handleSubmit = (event) => {
                                   nextEduTools={nextEduTools}
                                   prevEduTools={prevEduTools}
                                   faqs={faqs}
+                                  setFaqs={setFaqs}
                                   openIndex={openIndex}
                                   toggleFaq={toggleFaq}
                               /> } />

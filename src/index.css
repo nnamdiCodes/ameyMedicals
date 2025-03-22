@@ -376,6 +376,7 @@ button:disabled {
 }
 
 .faq-item {
+  color: #333;
   padding: 10px;
   background-color: white;
   box-shadow: 0 0 5px gray;
@@ -383,6 +384,7 @@ button:disabled {
 }
 
 .faq-question {
+  color: #333;
   width: 100%;
   text-align: left;
   background: none;
@@ -405,7 +407,6 @@ button:disabled {
   margin-top: 10px;
   margin-bottom: 10px;
   font-size: 16px;
-  color: #333;
 }
 
 .faq-answer.open {
@@ -842,7 +843,6 @@ form button:active {
   width: 50%;
   margin-inline: auto;
 }
-
 
 /* THIRD SECTION */
 
